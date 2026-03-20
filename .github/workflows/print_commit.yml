@@ -3,7 +3,7 @@ name: Print Commit Message
 on:
     push:
         branches:
-            - main
+            - master
 
 jobs:
     print-message:
